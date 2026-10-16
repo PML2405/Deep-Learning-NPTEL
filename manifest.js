@@ -370,7 +370,13 @@ window.MANIFEST = {
           "size": 8133512
         }
       ],
-      "assignments": []
+      "assignments": [
+        {
+          "label": "Assignment Solution",
+          "path": "assignments/Week 11 - Assignment Solution.pdf",
+          "size": 50536
+        }
+      ]
     },
     {
       "week": 12,
@@ -394,7 +400,13 @@ window.MANIFEST = {
           "size": 6193197
         }
       ],
-      "assignments": []
+      "assignments": [
+        {
+          "label": "Assignment Solution",
+          "path": "assignments/Week 12 - Assignment Solution.pdf",
+          "size": 77520
+        }
+      ]
     }
   ]
 };
